@@ -1,0 +1,1 @@
+# sklep-z-elektronika-sql
